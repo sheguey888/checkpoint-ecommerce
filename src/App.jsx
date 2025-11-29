@@ -10,7 +10,7 @@ import Cart from "./pages/Cart";
 function App() {
   return (
     <CartProvider>
-      <Router basename="/checkpoint-ecommerce">
+      <Router>
         <div className="flex flex-col min-h-screen">
           <Navbar />
           <main className="flex-grow">
