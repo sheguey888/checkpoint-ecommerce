@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.70b9ddfa.css",
-    "main.js": "/static/js/main.a9ebddb4.js",
-    "index.html": "/index.html",
-    "main.70b9ddfa.css.map": "/static/css/main.70b9ddfa.css.map",
-    "main.a9ebddb4.js.map": "/static/js/main.a9ebddb4.js.map"
+    "main.css": "/checkpoint-ecommerce/static/css/main.70b9ddfa.css",
+    "main.js": "/checkpoint-ecommerce/static/js/main.129f1d09.js",
+    "index.html": "/checkpoint-ecommerce/index.html",
+    "main.70b9ddfa.css.map": "/checkpoint-ecommerce/static/css/main.70b9ddfa.css.map",
+    "main.129f1d09.js.map": "/checkpoint-ecommerce/static/js/main.129f1d09.js.map"
   },
   "entrypoints": [
     "static/css/main.70b9ddfa.css",
-    "static/js/main.a9ebddb4.js"
+    "static/js/main.129f1d09.js"
   ]
 }
